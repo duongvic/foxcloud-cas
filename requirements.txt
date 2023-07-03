@@ -1,0 +1,2 @@
+python-heatclient==2.2.0
+python-troveclient

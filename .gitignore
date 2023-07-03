@@ -1,0 +1,6 @@
+*.pyc
+.idea/
+build/
+dist/
+foxcloud.egg-info/
+venv/
